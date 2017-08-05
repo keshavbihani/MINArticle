@@ -1,7 +1,7 @@
 # MINArticle
 A browser extension text summarizer
 
-Currently this extension is present in crome and opera browser.
+Currently this extension is available for crome and opera browser.
 MINArticle provides a summarized representation of article for the given long article.Which provides user enough information what the given article is allabout.
 
 How to use MINArticle?
